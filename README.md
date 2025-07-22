@@ -3,6 +3,10 @@
 ## 🚀 About Me
 I'm a Freshman at Hunter college with a passion for computer science. I enjoy exploring technology that can help me expand my knowledge of coding languages, frameworks, and as a developer.
 
+I'm a former senior at MESA Charter High School with a strong academic background in AP courses and membership in multiple honor societies like NEHS, NHS, and NMHS. 
+
+As an IT Fellow, I’ve gained hands-on experience in networking, troubleshooting, and hardware repair. I’ve also completed cybersecurity fellowships, earned certifications, and developed Java programming skills through a summer bootcamp—all building my foundation as a future developer.
+
 
 ## 🔗 Links
 
